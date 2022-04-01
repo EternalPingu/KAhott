@@ -1,0 +1,48 @@
+{
+    "kahoot": {
+        "options": {
+            "highlight-options": {
+                "highlight-color": "",
+                "highlight-thickness": "",
+                "highlight-opacity": ""
+            },
+            "auto-options": {
+                "auto-delay": "",
+                "auto-use-custom-delay": "",
+                "auto-points": "",
+                "auto-use-custom-points": ""
+            }
+        },
+        "modes": {
+            "auto": {
+                "listener": "",
+                "answer": "",
+                "enabled": ""
+            },
+            "highlight": {
+                "listener": "",
+                "answer": "",
+                "enabled": ""
+            },
+            "secret": {
+                "listener": "",
+                "answer": "",
+                "enabled": ""
+            }
+        },
+        "scripts": {
+            "game-id": {
+                "game-data": "",
+                "game-storage": "",
+                "game-questions": ""
+            },
+            "game-answer": {
+                "current-question": {
+                    "question-number": "",
+                    "question-answer": "",
+                    "question-type": ""
+                }
+            }
+        }
+    }
+}
